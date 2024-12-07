@@ -47,7 +47,8 @@ how to connect the database’s tables to Power Bi and how to clean & modify the
 Learned about some major practical DAX functions and measures.
 Learned about some major analytical visuals and reports.
 # Final result
-
+# Key Insights
+![Screenshot (204)](https://github.com/user-attachments/assets/075a98b5-0e33-4c7a-b390-2450f8669ec7)
 
 # Profit Analysis
 ![Screenshot (200)](https://github.com/user-attachments/assets/541bd7c9-b20b-45a6-8256-3a52f8654b51)

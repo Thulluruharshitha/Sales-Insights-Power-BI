@@ -37,11 +37,21 @@ SELECT transactions.*, date.* FROM transactions INNER JOIN date ON transactions.
 Show total revenue in year 2020,
 
 SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020 and transactions.currency="INR\r" or transactions.currency="USD\r";
-
-Show total revenue in year 2020, January Month,
-
-SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020 and and date.month_name="January" and (transactions.currency="INR\r" or transactions.currency="USD\r");
-
 Show total revenue in year 2020 in Chennai
 
 SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020 and transactions.market_code="Mark001";
+# Key Learnings
+Learned about what real business data sets look like.
+Learned about how to write some major analysis queries in MySQL.
+how to connect the database’s tables to Power Bi and how to clean & modify the unwanted data in Power Query.
+Learned about some major practical DAX functions and measures.
+Learned about some major analytical visuals and reports.
+# Final result
+
+
+# Profit Analysis
+![Screenshot (200)](https://github.com/user-attachments/assets/541bd7c9-b20b-45a6-8256-3a52f8654b51)
+
+# Perfomance insights
+![Screenshot (201)](https://github.com/user-attachments/assets/5000a291-8781-4d25-8d65-d49874fbff6f)
+

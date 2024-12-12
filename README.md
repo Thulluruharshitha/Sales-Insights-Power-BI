@@ -51,8 +51,8 @@ Learned about some major analytical visuals and reports.
 ![Screenshot (204)](https://github.com/user-attachments/assets/075a98b5-0e33-4c7a-b390-2450f8669ec7)
 
 # Profit Analysis
-![Screenshot (200)](https://github.com/user-attachments/assets/541bd7c9-b20b-45a6-8256-3a52f8654b51)
+![Screenshot (200)](https://github.com/user-attachments/assets/317cb92b-5dfd-4306-a7ff-fdf1b80cd131)
 
 # Perfomance insights
-![Screenshot (201)](https://github.com/user-attachments/assets/5000a291-8781-4d25-8d65-d49874fbff6f)
+![Screenshot (201)](https://github.com/user-attachments/assets/30348a61-b3c4-4b80-af7e-8397e15cf207)
 
